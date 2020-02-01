@@ -1,4 +1,4 @@
-# gavpwb
+# gpavwb
 not very healthy food for natural neural networks
 
 Repository ini sekedar uji coba.
