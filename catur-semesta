@@ -1,0 +1,23 @@
+Kalau kehidupan ini dimodelkan sebagai permainan catur (atau go atau permainan papan strategi lain yg terdiri dari 2 pemain), maka asosiasinya sebagai berikut:
+1. Permainan ini sedang dimainkan.
+2. Kita semua makhluk yg mampu memilih (akan disebut pemilih) adalah salah satu pemainnya.
+3. Lawan kita adalah sebuah server database super lengkap. Berisi permutasi langkah2 lengkap dari awal hingga akhir permainan. Bukan kecerdasan. Lawan kita diasosiasikan sebagai semesta. 
+4. Awal permainan adalah awal semesta yg sebenarnya, belum tentu big bang. 
+5. Akhir permainan terdiri dari 3 situasi: menang/kalah, kalah/menang, seri. Dua situasi yg disebutkan duluan terdefinisi sangat jelas, dinyatakan oleh pemain yg merasa kalah atau oleh permainan itu sendiri. Untuk catur, salah satu wujud seri adalah tinggal tersisanya 2 raja di atas papan. Kedua raja tidak dapat saling meniadakan. Asosiasi akhir permainan belum diketahui. 
+
+Asosiasi tersebut berimplikasi:
+1. Teori determinasi vs pilihan bisa ada bersamaan. Bagi makhluk pemilih, masa depan tidaklah pasti. Bagi semesta, segala masa dari segala kemungkinan sudah tertulis. 
+2. Bagi makhluk pemilih, definisi menang, kalah, dan seri sangatlah penting untuk menentukan pilihan langkah yg akan dibuat. 
+3. Semesta aktif bermain dengan pola yg kita sebut "alami". Sedangkan makhluk pemilih melakukan sesuatu dengan pola "buatan/artifisial". Bagi semesta, (mungkin) keberlangsungan permainan hanyalah satu2nya yg penting. Atau bisa jadi tidak ada yg penting, semesta terpaksa bermain.
+4. Beberapa skenario yg menarik untuk disebutkan: permainan cepat menuju situasi menang/kalah; permainan cepat menuju seri; permainan terlama menuju menang/kalah; permainan terlama menuju seri; permainan menuju konfigurasi tertentu. Skenario terakhir sangat berguna untuk teori rekursi (dalam hal ini mekanisme di dalam mekanisme). 
+5. Sangat mungkin pola "alami" adalah pola kerja sistem yg paling optimal relatif terhadap tujuan semesta, bukan tujuan manusia sebagai makhluk pemilih. Di sisi lain hampir segala yg makhluk pemilih lakukan akan mengurangi keoptimalannya. Hanya ada 1 langkah optimal di setiap giliran bila kita menyamakan tujuan. Catatan: aku tidak memaksakan kemutlakan karena mungkin terdapat beberapa skenario berbeda untuk mencapai keoptimalan tertinggi. Keoptimalan tertinggi boleh diistilahkan sebagai kesempurnaan. Jangan lupa kesempurnaan yg dimaksud relatif terhadap tujuan tertentu. Aku menyebutkan istilah kesempurnaan karena ada konflik menarik yg terkait dengan istilah itu. 
+6. Situasi seri sangatlah emosional buatku. Menakjubkan sekaligus memilukan. Perwakilan dari setiap pihak tinggal 1, mengarungi papan permainan berdua sampai bosan, hanya bisa saling menghalangi meski selalu bisa melangkah, tidak bisa saling mengakhiri. Apakah ini keabadian dan utopia? Kehidupan berakhir ketika salah satu atau kedua pihak menyatakan tidak ingin meneruskan. Mengakhiri suatu kegiatan adalah keputusan logis ketika memang ada hal lain yg lebih penting dilakukan. Tapi apakah ada? Berfaedahkah memperjuangkan yg tidak (akan) ada? Adakah sesuatu yg akan ada bila diperjuangkan tanpa mengetahui bahwa sesuatu itu dapat ada? Hah, terlalu filosofis. Catatan: pertanyaan barusan dapat dijawab secara melegakan namun kurang memuaskan menggunakan statistik; statistik ada karena observasi dari informasi yg sudah ada; langkah2 dalam permainan catur dapat diolah secara statistik. Paham maksudku?
+7. Seluruh makhluk pemilih atau seluruh kemampuan memilih adalah satu kesatuan sebagai satu pihak dalam permainan.
+
+Aku mempertimbangkan sejumlah hal dalam menuliskan asosiasi ini. Beberapa sudah kusebutkan di atas, sisanya:
+1. Aku menggunakan istilah makhluk pemilih karena lebih luas cakupannya daripada makhluk berkehendak bebas, apalagi makhluk berakal budi. Tentu saja alasannya adalah keraguan.
+2. Dalam mengobjektifikasi (objectify?) suatu hal, kadang aku gunakan istilah sementara yg kurang pas bagi banyak pihak, termasuk bagiku sendiri.
+3. Aku ingin tahu, apakah hasil beberapa kali permainan catur antara AI catur terhebat melawan server database catur terlengkap. Apakah ada pola yg terbentuk? Apakah ada "alami secara buatan" (artificial nature) atau "buatan secara alami" (natural artifice)?
+4. Mengapa aku sebut "alami" dan "buatan" sebagai "pola"? Aku pun tak tahu.
+
+Catatan ini disalin dari media lain tertanda 202001260133
